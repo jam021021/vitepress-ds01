@@ -15,13 +15,13 @@ sidebar: true
         <div class="row justify-content-between align-items-baseline  p-3">
                 <div class="col-lg-6">
                     <!-- $primary-1 -->
-                    <div class="bg-primary-1 d-flex justify-content-between align-items-center rounded mb-2">
+                    <div class="bg-primary-1 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$primary-1
                             <span class="h6 pl-3 font-weight-light" id="primary-1">#F4F8FA</span>
                         </div>
                         <p class="h6 my-2 pr-3 btn-copy" data-clipboard-target="#primary-1">複製</p>
                     </div>
-                    <div class="bg-primary-2 d-flex justify-content-between align-items-center rounded mb-2">
+                    <div class="bg-primary-2 d-flex justify-content-between align-items-center">
                         <div class="h6  my-3 font-weight-light pl-3">$primary-2
                         <span class="h6 pl-3 font-weight-light"
                                 id="primary-2">#E1EFEF</span>
@@ -30,7 +30,7 @@ sidebar: true
                     </div>
                     <!-- $primary-3 -->
                     <div
-                        class="bg-primary-3 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-primary-3 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$primary-3
                         <span class="h6 pl-3 font-weight-light"
                                 id="primary-3">#BDE3E2</span>
@@ -40,7 +40,7 @@ sidebar: true
                     </div>
                     <!-- $primary-4 -->
                     <div
-                        class="bg-primary-4 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-primary-4 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$primary-4
                         <span class="h6 pl-3 font-weight-light"
                                 id="primary-4">#87d4c7</span>
@@ -50,7 +50,7 @@ sidebar: true
                     </div>
                     <!-- $primary-5 -->
                     <div
-                        class="bg-primary-5 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-primary-5 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$primary-5
                         <span class="h6 pl-3 font-weight-light"
                                 id="primary-5">#5fc7b9</span>
@@ -62,7 +62,7 @@ sidebar: true
             <div class="col-lg-6">
             <!-- $primary-6 -->
             <div
-                class="bg-primary-6 d-flex justify-content-between align-items-center rounded mb-2">
+                class="bg-primary-6 d-flex justify-content-between align-items-center">
                 <div class="h6 my-3 font-weight-light pl-3">$primary-6
                 <span class="h6 pl-3 font-weight-light"
                         id="primary-6">#3cbaad</span>
@@ -72,7 +72,7 @@ sidebar: true
             </div>
             <!-- $primary-7 -->
             <div
-                class="bg-primary-7 d-flex justify-content-between align-items-center rounded mb-2">
+                class="bg-primary-7 d-flex justify-content-between align-items-center">
                 <div class="h6 my-3 font-weight-light pl-3">$primary-7
                 <span class="h6 pl-3 font-weight-light"
                         id="primary-7">#1cada4</span>
@@ -82,7 +82,7 @@ sidebar: true
             </div>
             <!-- $primary-8 -->
             <div
-                class="bg-primary-8 d-flex justify-content-between align-items-center rounded mb-2">
+                class="bg-primary-8 d-flex justify-content-between align-items-center">
                 <div class="h6 my-3 font-weight-light pl-3"> $primary-8
                 <span class="h6 pl-3 font-weight-light"
                         id="primary-8">#00a19b</span>
@@ -92,7 +92,7 @@ sidebar: true
             </div>
             <!-- $primary-9 -->
             <div
-                class="bg-primary-9 d-flex justify-content-between align-items-center rounded mb-2">
+                class="bg-primary-9 d-flex justify-content-between align-items-center">
                 <div class="h6 my-3 font-weight-light pl-3">$primary-9
                 <span class="h6 pl-3 font-weight-light"
                         id="primary-9">#007a7a</span>
@@ -102,7 +102,7 @@ sidebar: true
             </div>
             <!-- $primary-10 -->
             <div
-                class="bg-primary-10 d-flex justify-content-between align-items-center rounded mb-2">
+                class="bg-primary-10 d-flex justify-content-between align-items-center">
                 <div class="h6 my-3 font-weight-light pl-3">$primary-10
                 <span class="h6 pl-3 font-weight-light"
                         id="primary-10">#005154</span>
@@ -130,7 +130,7 @@ sidebar: true
         </div>
         <!-- $gray-2 -->
         <div
-            class="bg-gray-2 d-flex justify-content-between align-items-center rounded mb-2">
+            class="bg-gray-2 d-flex justify-content-between align-items-center">
             <div class="h6  my-3 font-weight-light pl-3">$gray-2<span class="h6 pl-3 font-weight-light"
                     id="gray-2">#fafafa</span>
             </div>
@@ -139,7 +139,7 @@ sidebar: true
         </div>
         <!-- $gray-3 -->
         <div
-            class="bg-gray-3 d-flex justify-content-between align-items-center rounded mb-2">
+            class="bg-gray-3 d-flex justify-content-between align-items-center">
             <div class="h6 my-3 font-weight-light pl-3">$gray-3<span class="h6 pl-3 font-weight-light"
                     id="gray-3">#f5f5f5</span>
             </div>
@@ -148,7 +148,7 @@ sidebar: true
         </div>
         <!-- $gray-4 -->
         <div
-            class="bg-gray-4 d-flex justify-content-between align-items-center rounded mb-2">
+            class="bg-gray-4 d-flex justify-content-between align-items-center">
             <div class="h6 my-3 font-weight-light pl-3"> $gray-4<span class="h6 pl-3 font-weight-light"
                     id="gray-4">#f0f0f0</span>
             </div>
@@ -157,7 +157,7 @@ sidebar: true
         </div>
         <!-- $gray-5 -->
         <div
-            class="bg-gray-5 d-flex justify-content-between align-items-center rounded mb-2">
+            class="bg-gray-5 d-flex justify-content-between align-items-center">
             <div class="h6 my-3 font-weight-light pl-3">$gray-5<span class="h6 pl-3 font-weight-light"
                     id="gray-5">#d9d9d9</span>
             </div>
@@ -166,7 +166,7 @@ sidebar: true
         </div>
         <!-- $gray-6 -->
         <div
-            class="bg-gray-6 d-flex justify-content-between align-items-center rounded mb-2">
+            class="bg-gray-6 d-flex justify-content-between align-items-center">
             <div class="h6 my-3 font-weight-light pl-3">$gray-6<span class="h6 pl-3 font-weight-light"
                     id="gray-6">#acacac</span>
             </div>
@@ -175,7 +175,7 @@ sidebar: true
         </div>
         <!-- $gray-7 -->
         <div
-            class="bg-gray-7 d-flex justify-content-between align-items-center rounded mb-2">
+            class="bg-gray-7 d-flex justify-content-between align-items-center">
             <div class="h6 my-3 font-weight-light pl-3">$gray-7<span class="h6 pl-3 font-weight-light"
                     id="gray-7">#7c7c7c</span>
             </div>
@@ -186,7 +186,7 @@ sidebar: true
     <div class="col-lg-6">
         <!-- $gray-8 -->
         <div
-            class="bg-gray-8 d-flex justify-content-between align-items-center rounded mb-2">
+            class="bg-gray-8 d-flex justify-content-between align-items-center">
             <div class="h6 my-3 font-weight-light pl-3">$gray-8<span class="h6 pl-3 font-weight-light"
                     id="gray-8">#595959</span>
             </div>
@@ -195,7 +195,7 @@ sidebar: true
         </div>
         <!-- $gray-9 -->
         <div
-            class="bg-gray-9 d-flex justify-content-between align-items-center rounded mb-2">
+            class="bg-gray-9 d-flex justify-content-between align-items-center">
             <div class="h6 my-3 font-weight-light pl-3">$gray-9<span class="h6 pl-3 font-weight-light"
                     id="gray-9">#434343</span>
             </div>
@@ -204,7 +204,7 @@ sidebar: true
         </div>
         <!-- $gray-10 -->
         <div
-            class="bg-gray-10 d-flex justify-content-between align-items-center rounded mb-2">
+            class="bg-gray-10 d-flex justify-content-between align-items-center">
             <div class="h6 my-3 font-weight-light pl-3"> $gray-10<span class="h6 pl-3 font-weight-light"
                     id="gray-10">#262626</span>
             </div>
@@ -213,7 +213,7 @@ sidebar: true
         </div>
         <!-- $gray-11 -->
         <div
-            class="bg-gray-10 d-flex justify-content-between align-items-center rounded mb-2">
+            class="bg-gray-10 d-flex justify-content-between align-items-center">
             <div class="h6 my-3 font-weight-light pl-3">$gray-11<span class="h6 pl-3 font-weight-light"
                     id="gray-11">#1c1c1c</span>
             </div>
@@ -222,7 +222,7 @@ sidebar: true
         </div>
         <!-- $gray-12 -->
         <div
-            class="bg-gray-10 d-flex justify-content-between align-items-center rounded mb-2">
+            class="bg-gray-10 d-flex justify-content-between align-items-center">
             <div class="h6 my-3 font-weight-light pl-3">$gray-12<span class="h6 pl-3 font-weight-light"
                     id="gray-12">#141414</span>
             </div>
@@ -231,7 +231,7 @@ sidebar: true
         </div>
         <!-- $gray-13 -->
         <div
-            class="bg-gray-10 d-flex justify-content-between align-items-center rounded mb-2">
+            class="bg-gray-10 d-flex justify-content-between align-items-center">
             <div class="h6 my-3 font-weight-light pl-3">$gray-13<span class="h6 pl-3 font-weight-light"
                     id="gray-13">#000000</span>
             </div>
@@ -340,7 +340,7 @@ sidebar: true
                     </h6>
                     <!-- $green-1 -->
                     <div
-                        class="bg-green-1 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-green-1 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$green-1 <span class="h6 pl-3 font-weight-light"
                                 id="green-1">#ecfdf6</span>
                         </div>
@@ -349,7 +349,7 @@ sidebar: true
                     </div>
                     <!-- $green-2 -->
                     <div
-                        class="bg-green-2 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-green-2 d-flex justify-content-between align-items-center">
                         <div class="h6  my-3 font-weight-light pl-3">$green-2<span class="h6 pl-3 font-weight-light"
                                 id="green-2">#d9f7eb</span>
                         </div>
@@ -358,7 +358,7 @@ sidebar: true
                     </div>
                     <!-- $green-3 -->
                     <div
-                        class="bg-green-3 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-green-3 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$green-3<span class="h6 pl-3 font-weight-light"
                                 id="green-3">#87e3bf</span>
                         </div>
@@ -367,7 +367,7 @@ sidebar: true
                     </div>
                     <!-- $green-4 -->
                     <div
-                        class="bg-green-4 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-green-4 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$green-4<span class="h6 pl-3 font-weight-light"
                                 id="green-4">#45d9a5</span>
                         </div>
@@ -376,7 +376,7 @@ sidebar: true
                     </div>
                     <!-- $green-5 -->
                     <div
-                        class="bg-green-5 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-green-5 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3"> $green-5<span class="h6 pl-3 font-weight-light"
                                 id="green-5">#21cc96</span>
                         </div>
@@ -385,7 +385,7 @@ sidebar: true
                     </div>
                     <!-- $green-6 -->
                     <div
-                        class="bg-green-6 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-green-6 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$green-6<span class="h6 pl-3 font-weight-light"
                                 id="green-6">#00c08b</span>
                         </div>
@@ -394,7 +394,7 @@ sidebar: true
                     </div>
                     <!-- $green-7 -->
                     <div
-                        class="bg-green-7 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-green-7 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$green-7<span class="h6 pl-3 font-weight-light"
                                 id="green-7">#009973</span>
                         </div>
@@ -403,7 +403,7 @@ sidebar: true
                     </div>
                     <!-- $green-8 -->
                     <div
-                        class="bg-green-8 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-green-8 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$green-8<span class="h6 pl-3 font-weight-light"
                                 id="green-8">#00735a</span>
                         </div>
@@ -412,7 +412,7 @@ sidebar: true
                     </div>
                     <!-- $green-9 -->
                     <div
-                        class="bg-green-9 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-green-9 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$green-9<span class="h6 pl-3 font-weight-light"
                                 id="green-9">#004d3e</span>
                         </div>
@@ -421,7 +421,7 @@ sidebar: true
                     </div>
                     <!-- $green-10 -->
                     <div
-                        class="bg-green-10 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-green-10 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$green-10<span class="h6 pl-3 font-weight-light"
                                 id="green-10">#0a3c37</span>
                         </div>
@@ -435,7 +435,7 @@ sidebar: true
                     </h6>
                     <!-- $yellow-1 -->
                     <div
-                        class="bg-yellow-1 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-yellow-1 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$yellow-1 <span class="h6 pl-3 font-weight-light"
                                 id="yellow-1">#fffde6</span>
                         </div>
@@ -444,7 +444,7 @@ sidebar: true
                     </div>
                     <!-- $yellow-2 -->
                     <div
-                        class="bg-yellow-2 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-yellow-2 d-flex justify-content-between align-items-center">
                         <div class="h6  my-3 font-weight-light pl-3">$yellow-2<span class="h6 pl-3 font-weight-light"
                                 id="yellow-2">#fff7ba</span>
                         </div>
@@ -453,7 +453,7 @@ sidebar: true
                     </div>
                     <!-- $yellow-3 -->
                     <div
-                        class="bg-yellow-3 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-yellow-3 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3"> $yellow-3<span class="h6 pl-3 font-weight-light"
                                 id="yellow-3">#ffef91</span>
                         </div>
@@ -462,7 +462,7 @@ sidebar: true
                     </div>
                     <!-- $yellow-4 -->
                     <div
-                        class="bg-yellow-4 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-yellow-4 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$yellow-4<span class="h6 pl-3 font-weight-light"
                                 id="yellow-4">#ffe369</span>
                         </div>
@@ -471,7 +471,7 @@ sidebar: true
                     </div>
                     <!-- $yellow-5 -->
                     <div
-                        class="bg-yellow-5 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-yellow-5 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$yellow-5<span class="h6 pl-3 font-weight-light"
                                 id="yellow-5">#ffd640</span>
                         </div>
@@ -480,7 +480,7 @@ sidebar: true
                     </div>
                     <!-- $yellow-6 -->
                     <div
-                        class="bg-yellow-6 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-yellow-6 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$yellow-6<span class="h6 pl-3 font-weight-light"
                                 id="yellow-6">#ffc517</span>
                         </div>
@@ -489,7 +489,7 @@ sidebar: true
                     </div>
                     <!-- $yellow-7 -->
                     <div
-                        class="bg-yellow-7 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-yellow-7 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$yellow-7<span class="h6 pl-3 font-weight-light"
                                 id="yellow-7">#d99e09</span>
                         </div>
@@ -498,7 +498,7 @@ sidebar: true
                     </div>
                     <!-- $yellow-8 -->
                     <div
-                        class="bg-yellow-8 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-yellow-8 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$yellow-8<span class="h6 pl-3 font-weight-light"
                                 id="yellow-8">#b37a00</span>
                         </div>
@@ -507,7 +507,7 @@ sidebar: true
                     </div>
                     <!-- $yellow-9 -->
                     <div
-                        class="bg-yellow-9 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-yellow-9 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$yellow-9<span class="h6 pl-3 font-weight-light"
                                 id="yellow-9">#8c5b00</span>
                         </div>
@@ -516,7 +516,7 @@ sidebar: true
                     </div>
                     <!-- $yellow-10 -->
                     <div
-                        class="bg-yellow-10 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-yellow-10 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$yellow-10<span class="h6 pl-3 font-weight-light"
                                 id="yellow-10">#663f00</span>
                         </div>
@@ -530,7 +530,7 @@ sidebar: true
                     </h6>
                     <!-- $orange-1 -->
                     <div
-                        class="bg-orange-1 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-orange-1 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$orange-1 <span class="h6 pl-3 font-weight-light"
                                 id="orange-1">#fff9e6</span>
                         </div>
@@ -539,7 +539,7 @@ sidebar: true
                     </div>
                     <!-- $orange-2 -->
                     <div
-                        class="bg-orange-2 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-orange-2 d-flex justify-content-between align-items-center">
                         <div class="h6  my-3 font-weight-light pl-3">$orange-2<span class="h6 pl-3 font-weight-light"
                                 id="orange-2">#ffeac0</span>
                         </div>
@@ -548,7 +548,7 @@ sidebar: true
                     </div>
                     <!-- $orange-3 -->
                     <div
-                        class="bg-orange-3 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-orange-3 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$orange-3<span class="h6 pl-3 font-weight-light"
                                 id="orange-3">#ffd77a</span>
                         </div>
@@ -557,7 +557,7 @@ sidebar: true
                     </div>
                     <!-- $orange-4 -->
                     <div
-                        class="bg-orange-4 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-orange-4 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$orange-4<span class="h6 pl-3 font-weight-light"
                                 id="orange-4">#ffc552</span>
                         </div>
@@ -566,7 +566,7 @@ sidebar: true
                     </div>
                     <!-- $orange-5 -->
                     <div
-                        class="bg-orange-5 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-orange-5 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$orange-5<span class="h6 pl-3 font-weight-light"
                                 id="orange-5">#ffb029</span>
                         </div>
@@ -575,7 +575,7 @@ sidebar: true
                     </div>
                     <!-- $orange-6 -->
                     <div
-                        class="bg-orange-6 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-orange-6 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$orange-6<span class="h6 pl-3 font-weight-light"
                                 id="orange-6">#ff9900</span>
                         </div>
@@ -584,7 +584,7 @@ sidebar: true
                     </div>
                     <!-- $orange-7 -->
                     <div
-                        class="bg-orange-7 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-orange-7 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$orange-7<span class="h6 pl-3 font-weight-light"
                                 id="orange-7">#d97b00</span>
                         </div>
@@ -593,7 +593,7 @@ sidebar: true
                     </div>
                     <!-- $orange-8 -->
                     <div
-                        class="bg-orange-8 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-orange-8 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$orange-8<span class="h6 pl-3 font-weight-light"
                                 id="orange-8">#b35f00</span>
                         </div>
@@ -602,7 +602,7 @@ sidebar: true
                     </div>
                     <!-- $orange-9 -->
                     <div
-                        class="bg-orange-9 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-orange-9 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$orange-9<span class="h6 pl-3 font-weight-light"
                                 id="orange-9">#8c4600</span>
                         </div>
@@ -611,7 +611,7 @@ sidebar: true
                     </div>
                     <!-- $orange-10 -->
                     <div
-                        class="bg-orange-10 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-orange-10 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$orange-10<span class="h6 pl-3 font-weight-light"
                                 id="orange-10">#663000</span>
                         </div>
@@ -624,7 +624,7 @@ sidebar: true
                     </h6>
                     <!-- $red-1 -->
                     <div
-                        class="bg-red-1 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-red-1 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$red-1 <span class="h6 pl-3 font-weight-light" id="red-1">#fff2f0</span>
                         </div>
                         <p class="h6 my-2 pr-3 btn-copy" data-clipboard-target="#red-1">複製
@@ -632,7 +632,7 @@ sidebar: true
                     </div>
                     <!-- $red-2 -->
                     <div
-                        class="bg-red-2 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-red-2 d-flex justify-content-between align-items-center">
                         <div class="h6  my-3 font-weight-light pl-3"> $red-2<span class="h6 pl-3 font-weight-light" id="red-2">#ffe2de</span>
                         </div>
                         <p class="h6 my-2 pr-3 btn-copy" data-clipboard-target="#red-2">複製
@@ -640,7 +640,7 @@ sidebar: true
                     </div>
                     <!-- $red-3 -->
                     <div
-                        class="bg-red-3 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-red-3 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$red-3<span class="h6 pl-3 font-weight-light" id="red-3">#ffc8c2</span>
                         </div>
                         <p class="h6 my-2 pr-3 btn-copy" data-clipboard-target="#red-3">複製
@@ -648,7 +648,7 @@ sidebar: true
                     </div>
                     <!-- $red-4 -->
                     <div
-                        class="bg-red-4 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-red-4 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3"> $red-4<span class="h6 pl-3 font-weight-light" id="red-4">#ffa099</span>
                         </div>
                         <p class="h6 my-2 pr-3 btn-copy" data-clipboard-target="#red-4">複製
@@ -656,7 +656,7 @@ sidebar: true
                     </div>
                     <!-- $red-5 -->
                     <div
-                        class="bg-red-5 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-red-5 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$red-5<span class="h6 pl-3 font-weight-light" id="red-5">#fc746f</span>
                         </div>
                         <p class="h6 my-2 pr-3 btn-copy" data-clipboard-target="#red-5">複製
@@ -664,7 +664,7 @@ sidebar: true
                     </div>
                     <!-- $red-6 -->
                     <div
-                        class="bg-red-6 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-red-6 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$red-6<span class="h6 pl-3 font-weight-light" id="red-6">#ef4343</span>
                         </div>
                         <p class="h6 my-2 pr-3 btn-copy" data-clipboard-target="#red-6">複製
@@ -672,7 +672,7 @@ sidebar: true
                     </div>
                     <!-- $red-7 -->
                     <div
-                        class="bg-red-7 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-red-7 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$red-7<span class="h6 pl-3 font-weight-light" id="red-7">#c92e34</span>
                         </div>
                         <p class="h6 my-2 pr-3 btn-copy" data-clipboard-target="#red-7">複製
@@ -680,7 +680,7 @@ sidebar: true
                     </div>
                     <!-- $red-8 -->
                     <div
-                        class="bg-red-8 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-red-8 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$red-8<span class="h6 pl-3 font-weight-light" id="red-8">#a31d26</span>
                         </div>
                         <p class="h6 my-2 pr-3 btn-copy" data-clipboard-target="#red-8">複製
@@ -688,7 +688,7 @@ sidebar: true
                     </div>
                     <!-- $red-9 -->
                     <div
-                        class="bg-red-9 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-red-9 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$red-9<span class="h6 pl-3 font-weight-light" id="red-9">#7d101b</span>
                         </div>
                         <p class="h6 my-2 pr-3 btn-copy" data-clipboard-target="#red-9">複製
@@ -696,7 +696,7 @@ sidebar: true
                     </div>
                     <!-- $red-10 -->
                     <div
-                        class="bg-red-10 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-red-10 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$red-10<span class="h6 pl-3 font-weight-light"
                                 id="red-10">#570a15</span>
                         </div>
@@ -710,7 +710,7 @@ sidebar: true
                     </h6>
                     <!-- $blue-1 -->
                     <div
-                        class="bg-blue-1 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-blue-1 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$blue-1 <span class="h6 pl-3 font-weight-light"
                                 id="blue-1">#e6fbff</span>
                         </div>
@@ -719,7 +719,7 @@ sidebar: true
                     </div>
                     <!-- $blue-2 -->
                     <div
-                        class="bg-blue-2 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-blue-2 d-flex justify-content-between align-items-center">
                         <div class="h6  my-3 font-weight-light pl-3">$blue-2<span class="h6 pl-3 font-weight-light"
                                 id="blue-2">#d3f6ff</span>
                         </div>
@@ -728,7 +728,7 @@ sidebar: true
                     </div>
                     <!-- $blue-3 -->
                     <div
-                        class="bg-blue-3 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-blue-3 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$blue-3<span class="h6 pl-3 font-weight-light"
                                 id="blue-3">#93e6fe</span>
                         </div>
@@ -737,7 +737,7 @@ sidebar: true
                     </div>
                     <!-- $blue-4 -->
                     <div
-                        class="bg-blue-4 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-blue-4 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$blue-4<span class="h6 pl-3 font-weight-light"
                                 id="blue-4">#52d4ff</span>
                         </div>
@@ -746,7 +746,7 @@ sidebar: true
                     </div>
                     <!-- $blue-5 -->
                     <div
-                        class="bg-blue-5 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-blue-5 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$blue-5<span class="h6 pl-3 font-weight-light"
                                 id="blue-5">#28c0fc</span>
                         </div>
@@ -755,7 +755,7 @@ sidebar: true
                     </div>
                     <!-- $blue-6 -->
                     <div
-                        class="bg-blue-6 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-blue-6 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$blue-6<span class="h6 pl-3 font-weight-light"
                                 id="blue-6">#00a4ef</span>
                         </div>
@@ -764,7 +764,7 @@ sidebar: true
                     </div>
                     <!-- $blue-7 -->
                     <div
-                        class="bg-blue-7 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-blue-7 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$blue-7<span class="h6 pl-3 font-weight-light"
                                 id="blue-7">#0083c9</span>
                         </div>
@@ -773,7 +773,7 @@ sidebar: true
                     </div>
                     <!-- $blue-8 -->
                     <div
-                        class="bg-blue-8 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-blue-8 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$blue-8<span class="h6 pl-3 font-weight-light"
                                 id="blue-8">#0065a3</span>
                         </div>
@@ -782,7 +782,7 @@ sidebar: true
                     </div>
                     <!-- $blue-9 -->
                     <div
-                        class="bg-blue-9 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-blue-9 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$blue-9<span class="h6 pl-3 font-weight-light"
                                 id="blue-9">#00497d</span>
                         </div>
@@ -791,7 +791,7 @@ sidebar: true
                     </div>
                     <!-- $blue-10 -->
                     <div
-                        class="bg-blue-10 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-blue-10 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$blue-10<span class="h6 pl-3 font-weight-light"
                                 id="blue-10">#003057</span>
                         </div>
@@ -799,12 +799,22 @@ sidebar: true
                         </p>
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
+</div>
+## 證券、投信產品色
+### 可依照視覺設計自行選用各產品色的色盤進行深淺搭配，當需壓上文字行請留意對比度。
+<div class="row mt-3 text-gray-900">
+    <div class="col">
+        <div class="mb-4 p-3">
+            <div class="row justify-content-between align-items-baseline  p-3">
                 <div class="col-lg-6 mb-3">
                     <h6 class="mb-3" style="height:76px;"><span class="text-pink-6 d-block">活力桃/玉山證券</span>活力創新，開啟投資第一步
                     </h6>
                     <!-- $pink-1 -->
                     <div
-                        class="bg-pink-1 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-pink-1 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3"> $pink-1 <span class="h6 pl-3 font-weight-light"
                                 id="pink-1">#fff0f4</span>
                         </div>
@@ -813,7 +823,7 @@ sidebar: true
                     </div>
                     <!-- $pink-2 -->
                     <div
-                        class="bg-pink-2 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-pink-2 d-flex justify-content-between align-items-center">
                         <div class="h6  my-3 font-weight-light pl-3">$pink-2<span class="h6 pl-3 font-weight-light"
                                 id="pink-2">#ffe5ec</span>
                         </div>
@@ -822,7 +832,7 @@ sidebar: true
                     </div>
                     <!-- $pink-3 -->
                     <div
-                        class="bg-pink-3 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-pink-3 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$pink-3<span class="h6 pl-3 font-weight-light"
                                 id="pink-3">#ffb9cf</span>
                         </div>
@@ -831,7 +841,7 @@ sidebar: true
                     </div>
                     <!-- $pink-4 -->
                     <div
-                        class="bg-pink-4 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-pink-4 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3"> $pink-4<span class="h6 pl-3 font-weight-light"
                                 id="pink-4">#ff80ac</span>
                         </div>
@@ -840,7 +850,7 @@ sidebar: true
                     </div>
                     <!-- $pink-5 -->
                     <div
-                        class="bg-pink-5 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-pink-5 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$pink-5<span class="h6 pl-3 font-weight-light"
                                 id="pink-5">#f25290</span>
                         </div>
@@ -849,7 +859,7 @@ sidebar: true
                     </div>
                     <!-- $pink-6 -->
                     <div
-                        class="bg-pink-6 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-pink-6 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3"> $pink-6<span class="h6 pl-3 font-weight-light"
                                 id="pink-6">#e62978</span>
                         </div>
@@ -858,7 +868,7 @@ sidebar: true
                     </div>
                     <!-- $pink-7 -->
                     <div
-                        class="bg-pink-7 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-pink-7 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$pink-7<span class="h6 pl-3 font-weight-light"
                                 id="pink-7">#bf1964</span>
                         </div>
@@ -867,7 +877,7 @@ sidebar: true
                     </div>
                     <!-- $pink-8 -->
                     <div
-                        class="bg-pink-8 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-pink-8 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$pink-8<span class="h6 pl-3 font-weight-light"
                                 id="pink-8">#990c50</span>
                         </div>
@@ -876,7 +886,7 @@ sidebar: true
                     </div>
                     <!-- $pink-9 -->
                     <div
-                        class="bg-pink-9 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-pink-9 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$pink-9<span class="h6 pl-3 font-weight-light"
                                 id="pink-9">#73033d</span>
                         </div>
@@ -885,7 +895,7 @@ sidebar: true
                     </div>
                     <!-- $pink-10 -->
                     <div
-                        class="bg-pink-10 d-flex justify-content-between align-items-center rounded mb-2">
+                        class="bg-pink-10 d-flex justify-content-between align-items-center">
                         <div class="h6 my-3 font-weight-light pl-3">$pink-10<span class="h6 pl-3 font-weight-light"
                                 id="pink-10">#4d022b</span>
                         </div>
@@ -893,10 +903,92 @@ sidebar: true
                         </p>
                     </div>
                 </div>
+                <div class="col-lg-6 mb-3">
+                    <h6 class="mb-3" style="height:76px;"><span class="text-navy-6 d-block">穩健藍/玉山投信</span>穩健投資，一步步迎向財富自由
+                    </h6>
+                    <div
+                        class="bg-navy-1 d-flex justify-content-between align-items-center btn-copy" data-clipboard-target="#navy-1">
+                        <div class="h6 my-3 font-weight-light pl-3">$navy-1</div>
+                        <p class="h6 my-2 pr-3 font-weight-light" id="navy-1">#E0F8FA</p>
+                    </div>
+                    <div
+                        class="bg-navy-2 d-flex justify-content-between align-items-center">
+                        <div class="h6  my-3 font-weight-light pl-3">$navy-2<span class="h6 pl-3 font-weight-light"
+                                id="navy-2">#CAF6FC</span>
+                        </div>
+                        <p class="h6 my-2 pr-3 btn-copy" data-clipboard-target="#navy-2">複製
+                        </p>
+                    </div>
+                    <div
+                        class="bg-navy-3 d-flex justify-content-between align-items-center">
+                        <div class="h6 my-3 font-weight-light pl-3">$navy-3<span class="h6 pl-3 font-weight-light"
+                                id="navy-3">#A9EDF8</span>
+                        </div>
+                        <p class="h6 my-2 pr-3 btn-copy" data-clipboard-target="#navy-3">複製
+                        </p>
+                    </div>
+                    <div
+                        class="bg-navy-4 d-flex justify-content-between align-items-center">
+                        <div class="h6 my-3 font-weight-light pl-3"> $navy-4<span class="h6 pl-3 font-weight-light"
+                                id="navy-4">#86DAED</span>
+                        </div>
+                        <p class="h6 my-2 pr-3 btn-copy" data-clipboard-target="#navy-4">複製
+                        </p>
+                    </div>
+                    <div
+                        class="bg-navy-5 d-flex justify-content-between align-items-center">
+                        <div class="h6 my-3 font-weight-light pl-3">$navy-5 <span class="h6 pl-3 font-weight-light"
+                                id="navy-5"><span class="h6 font-weight-normal" id="navy-5">投信輔助色 </span>#59C3E2</span>
+                        </div>
+                        <p class="h6 my-2 pr-3 btn-copy" data-clipboard-target="#navy-5">複製
+                        </p>
+                    </div>
+                    <div
+                        class="bg-navy-6 d-flex justify-content-between align-items-center">
+                        <div class="h6 my-3 font-weight-light pl-3"> $navy-6<span class="h6 pl-3 font-weight-light"
+                                id="navy-6">#40B3D5</span>
+                        </div>
+                        <p class="h6 my-2 pr-3 btn-copy" data-clipboard-target="#navy-6">複製
+                        </p>
+                    </div>
+                    <div
+                        class="bg-navy-7 d-flex justify-content-between align-items-center">
+                        <div class="h6 my-3 font-weight-light pl-3">$navy-7<span class="h6 pl-3 font-weight-light"
+                                id="navy-7">#3C9FC4</span>
+                        </div>
+                        <p class="h6 my-2 pr-3 btn-copy" data-clipboard-target="#navy-7">複製
+                        </p>
+                    </div>
+                    <div
+                        class="bg-navy-8 d-flex justify-content-between align-items-center">
+                        <div class="h6 my-3 font-weight-light pl-3">$navy-8<span class="h6 pl-3 font-weight-light"
+                                id="navy-8">#2A7D9D</span>
+                        </div>
+                        <p class="h6 my-2 pr-3 btn-copy" data-clipboard-target="#navy-8">複製
+                        </p>
+                    </div>
+                    <div
+                        class="bg-navy-9 d-flex justify-content-between align-items-center">
+                        <div class="h6 my-3 font-weight-light pl-3">$navy-9<span class="h6 pl-3 font-weight-light"
+                                id="navy-9">#1A546E</span>
+                        </div>
+                        <p class="h6 my-2 pr-3 btn-copy" data-clipboard-target="#navy-9">複製
+                        </p>
+                    </div>
+                    <div
+                        class="bg-navy-10 d-flex justify-content-between align-items-center">
+                        <div class="h6 my-3 font-weight-light pl-3">$navy-10<span class="h6 pl-3 font-weight-light"
+                                id="navy-10">#16445D</span>
+                        </div>
+                        <p class="h6 my-2 pr-3 btn-copy" data-clipboard-target="#navy-10">複製
+                        </p>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
 </div>
+
 
 <script setup>
 import { onMounted, onBeforeUnmount } from 'vue'
